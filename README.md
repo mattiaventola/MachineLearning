@@ -1,3 +1,3 @@
 # MachineLearning
 
-![This is an image](https://github.com/mattiaventola/ChampionsFinal2020/blob/main/abstract.jpg)
+![This is an image](https://github.com/mattiaventola/MachineLearning/blob/main/abstract.jpg)
